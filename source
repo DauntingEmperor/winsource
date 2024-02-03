@@ -1,9 +1,22 @@
-{
-  "Games"{
-  "name": "GTA: SA":{
-  "source": "Google Drive"
-  "installLink": "https://drive.google.com/file/d/0B-zHnX0724mNTGI0V01zTVY3WFk/view?usp=drive_link&resourcekey=0-Yi_GQnr2T2LkKYdYSen9tQ"
-      }
-    }
+[
+  {
+    "appName": "Minecraft",
+    "downloadLink": "https://drive.google.com/file/d/1VXPoYUBOSR41QPiB_37mVe_B-6aulNPZ/view?usp=sharing"
+  },
+  {
+    "appName": "App 2",
+    "downloadLink": "https://example.com/app2-download"
+  },
+  {
+    "appName": "App 3",
+    "downloadLink": "https://example.com/app3-download"
+  },
+  {
+    "appName": "App 4",
+    "downloadLink": "https://example.com/app4-download"
+  },
+  {
+    "appName": "App 5",
+    "downloadLink": "https://example.com/app5-download"
   }
-  
+]
