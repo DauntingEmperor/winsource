@@ -1,38 +1,14 @@
 [
-  {
-    "appName": "Minecraft",
-    "downloadLink": "https://drive.google.com/file/d/1VXPoYUBOSR41QPiB_37mVe_B-6aulNPZ/view?usp=sharing"
-  },
-  {
-    "appName": "Geometry Dash",
-    "downloadLink": "https://example.com/app2-download"
-  },
-  {
-    "appName": "App 3",
-    "downloadLink": "https://example.com/app3-download"
-  },
-  {
-    "appName": "App 4",
-    "downloadLink": "https://example.com/app4-download"
-  },
-  {
-    "appName": "App 5",
-    "downloadLink": "https://example.com/app5-download"
-  },
-  {
-    "appName": "App 6",
-    "downloadLink": "https://example.com/app4-download"
-  },
-  {
-    "appName": "App 7",
-    "downloadLink": "https://example.com/app4-download"
-  },
-  {
-    "appName": "App 8",
-    "downloadLink": "https://example.com/app4-download"
-  },
-  {
-    "appName": "App 9",
-    "downloadLink": "https://example.com/app4-download"
-  },
+   {
+      "appName": "App1",
+      "downloadLink": "https://example.com/app1.zip",
+      "description": "Description for App1",
+      "screenshots": ["screenshot1.jpg", "screenshot2.jpg"]
+   },
+   {
+      "appName": "App2",
+      "downloadLink": "https://example.com/app2.zip",
+      "description": "Description for App2",
+      "screenshots": ["screenshot1.jpg", "screenshot2.jpg"]
+   },
 ]
