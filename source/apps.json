@@ -1,9 +1,9 @@
 [
     {
-       "appName": "Appfrfr",
+       "appName": "App1",
        "downloadLink": "https://example.com/app1.zip",
        "description": "Description for App1",
-       "screenshots": ["screenshot1.jpg", "screenshot2.jpg"]
+       "screenshots": ["https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/1.jpg", "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/2.jpg"]
     },
     {
        "appName": "App2",
