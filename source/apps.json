@@ -10,5 +10,23 @@
        "downloadLink": "https://example.com/app2.zip",
        "description": "Description for App2",
        "screenshots": ["screenshot1.jpg", "screenshot2.jpg"]
+    },
+        {
+       "appName": "App2",
+       "downloadLink": "https://example.com/app2.zip",
+       "description": "Description for App2",
+       "screenshots": ["screenshot1.jpg", "screenshot2.jpg"]
+    },
+        {
+       "appName": "App2",
+       "downloadLink": "https://example.com/app2.zip",
+       "description": "Description for App2",
+       "screenshots": ["screenshot1.jpg", "screenshot2.jpg"]
+    },
+        {
+       "appName": "App2",
+       "downloadLink": "https://example.com/app2.zip",
+       "description": "Description for App2",
+       "screenshots": ["screenshot1.jpg", "screenshot2.jpg"]
     }
  ]
