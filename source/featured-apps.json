@@ -1,0 +1,20 @@
+[
+    {
+       "appName": "Minecraft (Free)",
+       "downloadLink": "https://drive.usercontent.google.com/u/0/uc?id=1VXPoYUBOSR41QPiB_37mVe_B-6aulNPZ&export=download",
+       "description": "Free Minecraft.",
+       "screenshots": ["https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/1.jpg", "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/2.jpg", "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/2.jpg", "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/2.jpg"]
+    },
+    {
+       "appName": "BattleFront II",
+       "downloadLink": "https://drive.usercontent.google.com/download?id=1lBEuxB_QA4E7Gc1pfGsyNfV2bTy85J58&export=download&authuser=0&confirm=t&uuid=3e402778-78cd-4632-9384-db4cd83bc0d8&at=APZUnTXvPKcOjluLSp70bx4jONbV:1708130756108",
+       "description": "Star Wars Battlefront II is an action shooter video game based on the Star Wars franchise. It is the fourth main installment of the Star Wars: Battlefront series, and a sequel to the 2015 reboot of the series.",
+       "screenshots": ["https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/BattleFront%202/Screenshots/1.jpeg", "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/BattleFront%202/Screenshots/2.jpeg"]
+    },
+    {  
+       "appName": "Portal 2",
+       "downloadLink": "https://drive.usercontent.google.com/download?id=13Oh288efXlWF6zAuSbeZ2p-rxn9VeVCF&export=download&authuser=0&confirm=t&uuid=a79eccb2-c645-486b-b7aa-9742b77720cd&at=APZUnTV3M4h23si6iMgaEzP9zGHf:1708213881252",
+       "description": "Star Wars Battlefront II is an action shooter video game based on the Star Wars franchise. It is the fourth main installment of the Star Wars: Battlefront series, and a sequel to the 2015 reboot of the series.",
+       "screenshots": ["https://www.digitaltrends.com/wp-content/uploads/2011/04/portal-2-release.jpg?p=1, https://developer.valvesoftware.com/w/images/0/0d/Portal_2_-_Background.jpg"]      
+    }
+]
