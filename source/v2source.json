@@ -1,0 +1,35 @@
+[
+  {
+    "name": "App 1",
+    "description": "This is a description for App 1.",
+    "download_link": "https://example.com/download/app1",
+    "app_icon": "https://example.com/images/app1_icon.png",
+    "screenshots": [
+      "https://example.com/images/app1_screenshot1.png",
+      "https://example.com/images/app1_screenshot2.png"
+    ],
+    "tags": ["productivity", "tools"]
+  },
+  {
+    "name": "App 2",
+    "description": "This is a description for App 2.",
+    "download_link": "https://example.com/download/app2",
+    "app_icon": "https://example.com/images/app2_icon.png",
+    "screenshots": [
+      "https://example.com/images/app2_screenshot1.png",
+      "https://example.com/images/app2_screenshot2.png"
+    ],
+    "tags": ["games", "entertainment"]
+  },
+  {
+    "name": "App 3",
+    "description": "This is a description for App 3.",
+    "download_link": "https://example.com/download/app3",
+    "app_icon": "https://example.com/images/app3_icon.png",
+    "screenshots": [
+      "https://example.com/images/app3_screenshot1.png",
+      "https://example.com/images/app3_screenshot2.png"
+    ],
+    "tags": ["education", "learning"]
+  }
+]
