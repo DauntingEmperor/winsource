@@ -1,7 +1,7 @@
 [
     {
         "name": "Minecraft (Free)",
-        "description": "This is a discription for App 1.",
+        "description": "This is a free version of Minecraft.",
         "download_link": "https://drive.usercontent.google.com/u/0/uc?id=1VXPoYUBOSR41QPiB_37mVe_B-6aulNPZ&export=download",
         "app_icon": "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/minecrafticon.jpg",
         "screenshots": [
@@ -11,14 +11,14 @@
         "tabs": ["All", "Trending", "Games"]
     },
     {
-        "name": "App 2",
-        "description": "This is a description for App 2.",
-        "download_link": "https://example.com/download/app2",
+        "name": "BattleFront II",
+        "description": "Star Wars Battlefront II is an action shooter video game based on the Star Wars franchise. It is the fourth main installment of the Star Wars: Battlefront series, and a sequel to the 2015 reboot of the series.",
+        "download_link": "https://drive.usercontent.google.com/download?id=1lBEuxB_QA4E7Gc1pfGsyNfV2bTy85J58&export=download&authuser=0&confirm=t&uuid=3e402778-78cd-4632-9384-db4cd83bc0d8&at=APZUnTXvPKcOjluLSp70bx4jONbV:1708130756108",
         "app_icon": "https://example.com/images/app2_icon.png",
         "screenshots": [
-            "https://example.com/images/app2_screenshot1.png",
-            "https://example.com/images/app2_screenshot2.png"
+            "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/BattleFront%202/Screenshots/1.jpeg",
+            "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/BattleFront%202/Screenshots/2.jpeg"
         ],
-        "tabs": ["All", "Games"]
+        "tabs": ["All", "Trending", "Games"]
     }
 ]
