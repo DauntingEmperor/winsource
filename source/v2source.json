@@ -3,7 +3,7 @@
         "name": "Minecraft (Free)",
         "description": "This is a discription for App 1.",
         "download_link": "https://drive.usercontent.google.com/u/0/uc?id=1VXPoYUBOSR41QPiB_37mVe_B-6aulNPZ&export=download",
-        "app_icon": "https://example.com/images/app1_icon.png",
+        "app_icon": "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/minecrafticon.jpg",
         "screenshots": [
             "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/1.jpg",
             "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/2.jpg"
