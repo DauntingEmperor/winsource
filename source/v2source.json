@@ -1,14 +1,14 @@
 [
     {
-        "name": "App 2",
+        "name": "Minecraft (Free)",
         "description": "This is a discription for App 1.",
-        "download_link": "https://example.com/download/app1",
+        "download_link": "https://drive.usercontent.google.com/u/0/uc?id=1VXPoYUBOSR41QPiB_37mVe_B-6aulNPZ&export=download",
         "app_icon": "https://example.com/images/app1_icon.png",
         "screenshots": [
-            "https://example.com/images/app1_screenshot1.png",
-            "https://example.com/images/app1_screenshot2.png"
+            "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/1.jpg",
+            "https://raw.githubusercontent.com/DauntingEmperor/winsource/main/Resources/Minecraft/Screenshots/2.jpg"
         ],
-        "tabs": ["All", "Trending", "Utility"]
+        "tabs": ["All", "Trending", "Games"]
     },
     {
         "name": "App 2",
