@@ -57,5 +57,17 @@
             "https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/517f0a95-e0ec-47c0-a448-f76e687b2679/1945745209/fallout-2-1-screenshot.jpg"
         ],
         "tabs": ["All", "Trending", "Games"]
+    };
+
+    {
+        "name": "Proton VPN",
+        "description": "A free VPN.",
+        "download_link": "https://protonvpn.com/download/ProtonVPN_v3.2.11.exe",
+        "app_icon": "https://indiatech.com/content/images/2022/12/protonvpn.jpeg",
+        "screenshots": [
+            "https://cdn.mos.cms.futurecdn.net/o9YuNTkaKyZmfsn57uiBmB.jpg",
+            "http://upload.wikimedia.org/wikipedia/commons/c/cf/Protonvpn-gui_screenshot.png"
+        ],
+        "tabs": ["All", "Trending", "Utility"]
     }
 ]
