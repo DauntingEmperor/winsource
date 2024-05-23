@@ -219,7 +219,7 @@
        "tabs": ["All", "Games", "Other", "Emulation"]
     },
         {
-        "name": "VMWare Player 17 🛡",
+        "name": "VMWare Player 17 🛡️",
         "description": "VMware Workstation Player, formerly VMware Player, was a virtualization software package for x64 computers running Microsoft Windows or Linux, supplied free of charge by VMware, Inc. VMware Player could run existing virtual appliances and create its own virtual machines.",
         "app_icon": "https://upload.wikimedia.org/wikipedia/commons/9/91/VMware_Workstation_Player_Icon.png",
         "download_link": "https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe",
@@ -228,6 +228,6 @@
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROVYmWrf5IRUIf1JR8Kh7h1CmFq3Eyt266ciEc4CZBSQ&s",
             "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/gallery/thumbnails/tn-vmware-work-station-player.png"
         ],
-        "tabs": [ "All", "Other","Utilities", "OS"]
+        "tabs": [ "All", "Other","Utilities", "OS", "Emulation"]
     }
 ]
