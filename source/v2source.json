@@ -143,7 +143,7 @@
 
      {
         "name": "Ubuntu",
-        "description": "A Debian baced Lunix OS",
+        "description": "A Debian based Linux OS",
         "download_link": "https://mirrors.xtom.com/ubuntu-releases/24.04/ubuntu-24.04-desktop-amd64.iso",
         "app_icon": "https://logowik.com/content/uploads/images/ubuntu4902.jpg",
         "admin": false,
