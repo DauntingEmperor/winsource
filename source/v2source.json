@@ -196,7 +196,7 @@
 
      {
         "name": "Ubuntu",
-        "description": "A Debian based Linux OS",
+        "description": "Ubuntu is a Linux distribution derived from Debian and composed mostly of free and open-source software. Ubuntu is officially released in multiple editions: Desktop, Server, and Core for Internet of things devices and robots.",
         "download_link": "https://mirrors.xtom.com/ubuntu-releases/24.04/ubuntu-24.04-desktop-amd64.iso",
         "app_icon": "https://logowik.com/content/uploads/images/ubuntu4902.jpg",
         "admin": false,
