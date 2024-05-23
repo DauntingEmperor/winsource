@@ -191,6 +191,19 @@
             "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.launchbox-app.com%2Fdownload&psig=AOvVaw3rWMijHGj01qjxzJ3Qunmh&ust=1716565316547000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjmwqOOpIYDFQAAAAAdAAAAABAg"
         ],
         "tabs": ["All", "Games", "Other", "Emulation"]
+    },
+    
+    {
+        "name": "Visual Boy Advanced",
+        "description": "VisualBoyAdvance stands the test of time as the most reliable Game Boy Advance emulator on the market. With regular updates and features, users gain access to helpful debugging tools like loggers, viewers and editors. \n\nPopular cheat code manufacturers like GameShark and Codebreaker are also supported! Additionally, graphic filters allow you to enhance your display with motion blur or color correction effects. And for those games that require trading or multiplayer modes, local and remote linking capabilities are available. \n\nWith VisualBoyAdvance, you can be sure that you’re getting a professional-level gaming experience in the world of GBA emulation.",
+        "app_icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AVisualBoyAdvance.png&psig=AOvVaw25Zc_1wdrJp13ECw1iWZFC&ust=1716566477496000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjw0M6SpIYDFQAAAAAdAAAAABAD",
+        "download_link": "https://objects.githubusercontent.com",
+        "admin": false,
+        "screenshots": [
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualboyadvance.org%2F&psig=AOvVaw11FvWmnSR9olhwt11hfMTB&ust=1716566515259000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCpxuGSpIYDFQAAAAAdAAAAABAD",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.steamgriddb.com%2Fgame%2F37070&psig=AOvVaw11FvWmnSR9olhwt11hfMTB&ust=1716566515259000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCpxuGSpIYDFQAAAAAdAAAAABAQ"
+        ],
+       "tabs": ["All", "Games", "Other", "Emulation",
     }
     
 ]
