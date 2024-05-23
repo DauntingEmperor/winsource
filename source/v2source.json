@@ -75,7 +75,7 @@
             "http://upload.wikimedia.org/wikipedia/commons/c/cf/Protonvpn-gui_screenshot.png"
         ],
         "tabs": ["All", "Trending", "Utility"]
-    }
+    },
 
     {
         "name": "Balena Etcher",
