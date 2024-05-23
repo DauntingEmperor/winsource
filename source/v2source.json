@@ -90,7 +90,7 @@
     },
 
     {
-        "name": "Proton VPN",
+        "name": "Proton VPN 🛡️",
         "description": "A free VPN.",
         "download_link": "https://protonvpn.com/download/ProtonVPN_v3.2.11.exe",
         "app_icon": "https://indiatech.com/content/images/2022/12/protonvpn.jpeg",
@@ -103,7 +103,7 @@
     },
 
     {
-        "name": "Balena Etcher",
+        "name": "Balena Etcher 🛡️",
         "description": "Free Re-Imaging tool.",
         "download_link": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/45055693/f33235c9-4cc8-4819-b8dc-5fa6465e8f03?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240522T022059Z&X-Amz-Expires=300&X-Amz-Signature=4fe603459fe604b415140a6c212eee904be6d9bb72e0e00112771234133a758c&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=45055693&response-content-disposition=attachment%3B%20filename%3DbalenaEtcher-Portable-1.18.11.exe&response-content-type=application%2Foctet-stream",
         "app_icon": "https://www.homematic-inside.de/api/image/preview/balena-etcher.jpg",
