@@ -115,6 +115,22 @@
         "tabs": ["All", "Trending", "Games"]
     },
 
+      {
+        "name": "Poly Track",
+        "description": "PolyTrack is a low-poly racing game with loops, jumps and high speeds, where every millisecond counts. The game is heavily inspired by TrackMania, where you race against the clock to improve your time on different tracks.\n\nThe game includes a level editor where you can create tracks, which you can then export and share with others.",
+        "app_icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.speedrun.com%2Fpolytrack&psig=AOvVaw2XYUxQlxi1iWGemVzjyl_X&ust=1716564239316000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOif8aKKpIYDFQAAAAAdAAAAABAD",
+        "download_link": "https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com",
+        "screenshots": [
+            "https://kodub.itch.io/polytrack",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkodub.itch.io%2Fpolytrack&psig=AOvVaw1Q2DRhKOX_xNPQzioKPJP3&ust=1716564318826000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCGpcaKpIYDFQAAAAAdAAAAABAI"
+        ],
+        "tabs": [
+            "All",
+            "Games"
+        ],
+        "admin": false
+    },
+
     {
         "name": "Proton VPN 🛡️",
         "description": "A free VPN.",
@@ -166,4 +182,5 @@
         ],
         "tabs": ["All", "Other", "Browser"]
     }
+    
 ]
