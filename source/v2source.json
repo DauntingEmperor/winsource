@@ -278,8 +278,8 @@
         "download_link": "https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe",
         "admin": true,
         "screenshots": [
-            "https://static.miraheze.org/horizonwiki/c/c3/Dolphin_running.jpg",
-            "https://i.redd.it/x7fjj6y331081.png"
+            "https://i.redd.it/x7fjj6y331081.png",
+            "https://static.miraheze.org/horizonwiki/c/c3/Dolphin_running.jpg"
         ],
         "tabs": [ "All", "Other","Utilities", "OS", "Emulation"]
     }
