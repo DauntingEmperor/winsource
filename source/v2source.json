@@ -152,5 +152,18 @@
             "https://www.ubuntufree.com/wp-content/uploads/2019/10/ubuntu-20-04-lts-focal-fossa-is-now-officially-open-for-development-528005-2.jpg"
         ],
         "tabs": ["All", "Other", "OS"]
+    },
+
+     {
+        "name": "Chromium",
+        "description": "Blue Chrome.",
+        "download_link": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1304994/mini_installer.exe",
+        "app_icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AChromium_Logo.svg&psig=AOvVaw1Hlc8R3Dk1GqnfYXmrNrPt&ust=1716562986826000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJig8cuFpIYDFQAAAAAdAAAAABAf",
+        "admin": false,
+        "screenshots": [
+            "https://www.softwareadvice.com/browser/chromium-profile/",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linuxuprising.com%2F2020%2F12%2Fchromium-and-ungoogled-chromium-web.html&psig=AOvVaw1f11oYna4dX_BOBTru0piP&ust=1716563069770000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDZ-PKFpIYDFQAAAAAdAAAAABAQ"
+        ],
+        "tabs": ["All", "Other", "Browser"]
     }
 ]
