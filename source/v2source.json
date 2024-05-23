@@ -156,6 +156,19 @@
     },
 
     {
+        "name": "Terraria",
+        "description": "The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours! Blending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are as unique as the players themselves!",
+        "app_icon": "https://assets1.ignimgs.com/2019/01/17/terraria---button-1547745886957.jpg",
+        "download_link": "https://download193.uploadhaven.com",
+        "screenshots": [
+            "https://media.wired.com/photos/5932930e5c4fbd732b553a4c/master/w_2560%2Cc_limit/terraria.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIkU7ZflaizsR3iAp67EqnWYMrFuu0cud7w&usqp=CAU"
+        ],
+        "tabs": ["All", "Games"],
+        "admin": false
+    },
+
+    {
         "name": "Proton VPN 🛡",
         "description": "A free VPN.",
         "download_link": "https://protonvpn.com/download/ProtonVPN_v3.2.11.exe",
