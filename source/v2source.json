@@ -209,7 +209,7 @@
 
      {
         "name": "Chromium",
-        "description": "Blue Chrome.",
+        "description": "Chromium is a free and open-source web browser project, primarily developed and maintained by Google. It is a widely-used codebase, providing the vast majority of code for Google Chrome and many other browsers, including Microsoft Edge, Samsung Internet, and Opera. The code is also used by several app frameworks.",
         "download_link": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1304994/mini_installer.exe",
         "app_icon": "https://www.gstatic.com/images/branding/productlogos/chrome_chromium/v8/192px.svg",
         "admin": false,
