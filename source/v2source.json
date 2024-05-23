@@ -266,8 +266,8 @@
         "download_link": "https://dl.dolphin-emu.org",
         "admin": false,
         "screenshots": [
-            "https://i0.wp.com/wololo.net/wagic/wp-content/uploads/2022/05/retroarch_ps4.jpg?resize=1024%2C573&ssl=1",
-            "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Retroarch-Cheats-Featured.jpg"
+            "https://i.redd.it/x7fjj6y331081.png",
+            "https://static.miraheze.org/horizonwiki/c/c3/Dolphin_running.jpg"
         ],
        "tabs": ["All", "Games", "Other", "Emulation"]
     },
@@ -278,8 +278,8 @@
         "download_link": "https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe",
         "admin": true,
         "screenshots": [
-            "https://i.redd.it/x7fjj6y331081.png",
-            "https://static.miraheze.org/horizonwiki/c/c3/Dolphin_running.jpg"
+            "https://cdn.arstechnica.net/wp-content/uploads/2016/08/vmware-Linux-Win10.png",
+            "https://blogs.vmware.com/workstation/files/2020/09/WS-Blog-Header.png"
         ],
         "tabs": [ "All", "Other","Utilities", "OS", "Emulation"]
     }
