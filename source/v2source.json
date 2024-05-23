@@ -158,11 +158,11 @@
         "name": "Chromium",
         "description": "Blue Chrome.",
         "download_link": "https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1304994/mini_installer.exe",
-        "app_icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AChromium_Logo.svg&psig=AOvVaw1Hlc8R3Dk1GqnfYXmrNrPt&ust=1716562986826000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJig8cuFpIYDFQAAAAAdAAAAABAf",
+        "app_icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fgoogle%2Fchromium-browsers-to-get-svg-support-for-site-favicons%2F&psig=AOvVaw0OxgBdMNylvdZKDhC50cWm&ust=1716563415731000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCWhpmHpIYDFQAAAAAdAAAAABAc",
         "admin": false,
         "screenshots": [
-            "https://www.softwareadvice.com/browser/chromium-profile/",
-            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linuxuprising.com%2F2020%2F12%2Fchromium-and-ungoogled-chromium-web.html&psig=AOvVaw1f11oYna4dX_BOBTru0piP&ust=1716563069770000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDZ-PKFpIYDFQAAAAAdAAAAABAQ"
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnubuntumate.weebly.com%2Fchromium.html&psig=AOvVaw1ww_xogzElU0CmvTR1CFYp&ust=1716563493110000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCX5L-HpIYDFQAAAAAdAAAAABAD",
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.windowslatest.com%2F2020%2F08%2F07%2Fmicrosoft-removes-unofficial-chromium-browser-from-the-store%2F&psig=AOvVaw1ww_xogzElU0CmvTR1CFYp&ust=1716563493110000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCX5L-HpIYDFQAAAAAdAAAAABAI"
         ],
         "tabs": ["All", "Other", "Browser"]
     }
