@@ -132,7 +132,7 @@
         "name": "Ubuntu",
         "description": "A Debian baced Lunix OS",
         "download_link": "https://mirrors.xtom.com/ubuntu-releases/24.04/ubuntu-24.04-desktop-amd64.iso",
-        "app_icon": "https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png",
+        "app_icon": "https://logowik.com/content/uploads/images/ubuntu4902.jpg",
         "admin": false,
         "screenshots": [
             "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/Ubuntu-full-menu-screenshot-1024x576.webp",
