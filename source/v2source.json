@@ -63,6 +63,18 @@
         ],
         "tabs": ["All", "Trending", "Games"]
     },
+    {
+        "name": "Fallout Tactics: Brotherhood of Steel",
+        "description": "Tactical Squad-Based Combat comes to the Fallout® Universe! You are the wretched refuse. You may be born from dirt, but we will forge you into steel. You will learn to bend; if not you, will you break. In these dark times, the Brotherhood - your Brotherhood - is all that stands between the rekindled flame of civilization and the howling, radiated wasteland.Your weapons will become more than your tools, they will become your friends. You will use your skills to inspire the lowly and protect the weak... whether they like it or not. Your squadmates will be more dear to you than your kin and for those that survive there will be honor, respect and the spoils of war.",
+        "download_link": "https://drive-data-export.usercontent.google.com/download/pjfg4dl772itjjdg8n6vkhl7omi3brrp/sc6qmugpaaoop4e4jqlfu3fofafklmn5/1716417000000/b68185f5-8eb5-4280-bcd5-df40089ff466/114295698762920802088/ADt3v-NBGY60mcc4FDeWIs3clcpVb0U_w0-_UsDn12oj-e7tg6_vYc-4ktBmYBbfKPL6HmvtsmYxbaSSzOQcLQtkjxSxv_nl0p6AhQs3fGyFa9t27DAcL19aexwuiWlpxabgFy5P5fq2vqoYPwTfTOi8d75Ul2T0mDzSDbBo9d4Rg6zNHVA4XyEx28yaHbGtx5qjWrgHNsqXh0hhfKcOm7tpfSefGXGrUec6od4uFuuwPHwaQIh4p0wmhncnXRjvymF_PhizNUxRKiizeiQ5VZaVwB6uUxKpQUvAUFoS96CdmtCWwiASvYMQzu4vg1UbY6TOAHvcin-o?j=b68185f5-8eb5-4280-bcd5-df40089ff466&user=628451914134&i=0&authuser=0",
+        "app_icon": "https://m.media-amazon.com/images/M/MV5BMTc2ZDM4MmYtMzkxMi00YTMzLWE5ZGItNDliNzdlMTg1MGM0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+        "admin": false,
+        "screenshots": [
+            "https://i.ytimg.com/vi/WhvX_0lXh7I/maxresdefault.jpg",
+            "https://i.ytimg.com/vi/8icoGhbRazM/maxresdefault.jpg"
+        ],
+        "tabs": ["All", "Trending", "Games"]
+    },
 
     {
         "name": "Geometry Dash",
