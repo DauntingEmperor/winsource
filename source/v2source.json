@@ -258,6 +258,19 @@
         ],
        "tabs": ["All", "Games", "Other", "Emulation"]
     },
+
+         {
+        "name": "Dolphin Emulator",
+        "description": "Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more!",
+        "app_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dolphin-logo.svg/640px-Dolphin-logo.svg.png",
+        "download_link": "https://dl.dolphin-emu.org",
+        "admin": false,
+        "screenshots": [
+            "https://i0.wp.com/wololo.net/wagic/wp-content/uploads/2022/05/retroarch_ps4.jpg?resize=1024%2C573&ssl=1",
+            "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Retroarch-Cheats-Featured.jpg"
+        ],
+       "tabs": ["All", "Games", "Other", "Emulation"]
+    },
         {
         "name": "VMWare Player 17 🛡",
         "description": "VMware Workstation Player, formerly VMware Player, was a virtualization software package for x64 computers running Microsoft Windows or Linux, supplied free of charge by VMware, Inc. VMware Player could run existing virtual appliances and create its own virtual machines.",
@@ -265,8 +278,8 @@
         "download_link": "https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe",
         "admin": true,
         "screenshots": [
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROVYmWrf5IRUIf1JR8Kh7h1CmFq3Eyt266ciEc4CZBSQ&s",
-            "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/images/gallery/thumbnails/tn-vmware-work-station-player.png"
+            "https://static.miraheze.org/horizonwiki/c/c3/Dolphin_running.jpg",
+            "https://i.redd.it/x7fjj6y331081.png"
         ],
         "tabs": [ "All", "Other","Utilities", "OS", "Emulation"]
     }
