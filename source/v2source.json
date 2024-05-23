@@ -133,7 +133,7 @@
         "description": "A Debian baced Lunix OS",
         "download_link": "https://mirrors.xtom.com/ubuntu-releases/24.04/ubuntu-24.04-desktop-amd64.iso",
         "app_icon": "https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png",
-        "admin": true,
+        "admin": false,
         "screenshots": [
             "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/Ubuntu-full-menu-screenshot-1024x576.webp",
             "https://www.ubuntufree.com/wp-content/uploads/2019/10/ubuntu-20-04-lts-focal-fossa-is-now-officially-open-for-development-528005-2.jpg"
