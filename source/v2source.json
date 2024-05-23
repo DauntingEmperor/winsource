@@ -65,6 +65,19 @@
     },
 
     {
+        "name": "Geometry Dash",
+        "description": "Jump and fly your way through danger in this rhythm-based action platformer! Prepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.",
+        "download_link": "https://drive.usercontent.google.com/download?id=1lBEuxB_QA4E7Gc1pfGsyNfV2bTy85J58&export=download&authuser=0&confirm=t&uuid=3e402778-78cd-4632-9384-db4cd83bc0d8&at=APZUnTXvPKcOjluLSp70bx4jONbV:1708130756108",
+        "app_icon": "https://www.giantbomb.com/a/uploads/scale_medium/3/30036/1285936-fallout2front.jpg",
+        "admin": false,
+        "screenshots": [
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rockpapershotgun.com%2Fhave-you-played-geometry-dash&psig=AOvVaw0CO5U6K9pO_GFG490CpMM2&ust=1709507377678000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMii5bbZ1oQDFQAAAAAdAAAAABAE",
+            "https://i.ytimg.com/vi/X_NFKtOUBaI/maxresdefault.jpg"
+        ],
+        "tabs": ["All", "Trending", "Games"]
+    },
+
+    {
         "name": "Proton VPN",
         "description": "A free VPN.",
         "download_link": "https://protonvpn.com/download/ProtonVPN_v3.2.11.exe",
